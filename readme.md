@@ -1,15 +1,15 @@
 
-### Hi there 👋, Meu nome é Felipe Mateus
+### Olá 👋, Meu nome é Felipe Mateus
 #### Estudante de programação
 Pretendo me especializar em desenvolvimento Front-End.
 Sou formado em analise e desenvolvimento de sistemas e em design gráfico. Curto explorar os diferentes aspectos da programação visual e explorar tecnologias, expandir o conhecimento
 
 Skills: HTML/ CSS / JS / ANGULAR / REACT 
 
-- 🔭 I’m currently working on meu site de portfolio 
-- 🌱 I’m currently learning JS & React 
-- 👯 I’m looking to collaborate on  Estou disponível para ajudar em qualquer trabalho voltado para programação web 
-- 📫 How to reach me: fmgermano@gmail.com 
+- 🔭 Estou trabalhando atualmente no meu site de portfolio 
+- 🌱 Estou aprendendo  JS & React 
+- 👯 Estou disponível para ajudar em qualquer trabalho voltado para programação web 
+- 📫 Meu contato: fmgermano@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fmgermano)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fmgermano8//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/fmgermano/)  
