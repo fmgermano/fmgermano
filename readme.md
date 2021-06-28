@@ -1,4 +1,4 @@
-"# fmgermano" 
+
 ### Hi there 👋, Meu nome é Felipe Mateus
 #### Estudante de programação
 Pretendo me especializar em desenvolvimento Front-End.
