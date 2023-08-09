@@ -22,6 +22,4 @@ Skills: HTML/ CSS / JS / ANGULAR / REACT
 
 ![GitHub metrics](https://metrics.lecoq.io/fmgermano)  
 
-![Profile views](https://gpvc.arturio.dev/fmgermano)  
-
 <a href="https://app.daily.dev/fmgermano"><img src="https://api.daily.dev/devcards/d115a029b1344b18bdacca9e0ca85c0c.png?r=th7" width="400" alt="FM's Dev Card"/></a>
